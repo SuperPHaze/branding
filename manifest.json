@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "common": {
+    "author": "Alese (SuperPietro) Haze",
+    "nick": "SuperPHaze",
+    "links": { "github": "https://github.com/SuperPHaze" },
+    "logo_url": "https://raw.githubusercontent.com/SuperPHaze/branding/main/logo.png"
+  },
+  "tools": {
+    "mdpr": { "name": "Mega Downloader Proxy Rotator", "acronym": "MDPR" }
+  }
+}
